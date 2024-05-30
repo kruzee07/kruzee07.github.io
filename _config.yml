@@ -1,9 +1,0 @@
-title: My Jekyll Site
-description: A simple Jekyll site.
-baseurl: "https://github.com/kruzee07/kruzee07.github.io" # the subpath of your site, e.g. /blog
-url: "https://kruzee07.github.io" # the base hostname & protocol for your site
-github_username: kruzee07
-theme: minima
-
-# Build settings
-markdown: kramdown
