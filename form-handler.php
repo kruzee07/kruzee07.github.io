@@ -11,7 +11,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $headers = "From: $email";
 
     if (mail($to, $subject, $body, $headers)) {
-        echo "Message sent successfully!";
+        // Redirect to a thank you page
+        header("Location: sent.html");
+        exit;
     } else {
         echo "Failed to send message.";
     }
