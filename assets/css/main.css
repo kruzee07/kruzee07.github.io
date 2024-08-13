@@ -3574,7 +3574,7 @@ body.is-preload .wrapper.fade > .inner {
 
 #footer > .inner .menu {
   font-size: 0.8em;
-  color: rgba(255, 255, 255, 0.35);
+  color: rgba(255, 255, 255, 0.451);
 }
 
 #header + #wrapper + #footer > .inner {
@@ -3980,6 +3980,9 @@ body.is-preload #sidebar nav ul li {
     text-align: center;
 }
 
+
+
+/*   */
 .timeline {
   position: relative;
   max-width: 1200px;
@@ -4263,5 +4266,78 @@ body.is-preload #sidebar nav ul li {
       font-size: 0.8rem;
       color: #00ddff;
       
+  }
+}
+
+
+.wrapper {
+  background-color: #f9f9f9;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1.major {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+.work-experience {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.work-experience h2 {
+  font-size: 1.8rem;
+  color: #0056b3;
+  margin-bottom: 10px;
+}
+
+.work-experience h3 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+ul li strong {
+  color: #333;
+}
+
+@media (max-width: 768px) {
+  h1.major {
+      font-size: 2rem;
+  }
+
+  .work-experience h2 {
+      font-size: 1.5rem;
+  }
+
+  .work-experience h3 {
+      font-size: 1.3rem;
+  }
+
+  ul li {
+      font-size: 1rem;
   }
 }
