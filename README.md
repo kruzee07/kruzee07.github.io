@@ -15,12 +15,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kruzee07&theme=gruvbox)
 
 ### 📫 Social
-Email: [krutarthghuge@gmail.com](mailto:krutarthghuge@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krutarthghuge@gmail.com)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/krutarth-ghuge-67b611184/)
 ![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue&link=https://x.com/krutarth_ghuge)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kruzxee/)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kruzee07)
-[StackOverflow](https://stackoverflow.com)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/kruzee07)
 
 ### 🛠️ Skills & Technologies
