@@ -1,13 +1,13 @@
 ## 👋 Hi there! I'm Krutarth!
 
-- I'm a 4th year student at Trent University.
-- I'm majoring in Computer Science, specializing in Data Analytics, and doing a minor in Economics.
-- I’m intrigued working with complex datasets and building models for efficient computing.
+I'm a 4th year student at Trent University.
+I'm majoring in Computer Science, specializing in Data Analytics, and doing a minor in Economics.
+I’m intrigued working with complex datasets and building models for efficient computing.
 
-- 🔭 I’m currently working on a research project on decrypting hashed codes.
-- 💰 I’m learning Financial Analysis to enhance my skills in the Finance sector.
-- 🎯 My utlimate goal is to successfully build a model that can redefine Banking, and I’m creatively looking for ways to do so.
-- 😴 When I'm not coding, eating or sleeping (P.S. If I'm asleep I most probably ate before).
+🔭 I’m currently working on a research project on decrypting hashed codes.
+💰 I’m learning Financial Analysis to enhance my skills in the Finance sector.
+🎯 My utlimate goal is to successfully build a model that can redefine Banking, and I’m creatively looking for ways to do so.
+😴 When I'm not coding, I'm eating or sleeping (P.S. If I'm asleep I most probably ate before).
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kruzee07&show_icons=true&theme=tokyonight)
@@ -41,10 +41,10 @@
 
 
 ### 🔥 Open Source Contributions
-- None right now
+- - None right now
 
 ### 🕒 Current Repo
-- This repo contains codes and data used to build my portfolio website
+This repo contains codes and data used to build my portfolio website
 
 
 
