@@ -1,0 +1,13 @@
+# Allow POST requests
+<Limit POST>
+    Order allow,deny
+    Allow from all
+</Limit>
+
+# Enable PHP file processing
+AddHandler application/x-httpd-php .php
+
+# If needed, you can add custom error handling like:
+# Redirect 405 errors to a custom page
+ErrorDocument 405 /error-pages/405.html
+
