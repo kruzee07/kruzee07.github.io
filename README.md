@@ -20,7 +20,6 @@ I’m intrigued working with complex datasets and building models for efficient 
 ![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue&link=https://x.com/krutarth_ghuge)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kruzxee/)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kruzee07)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/kruzee07)
 
 ### 🛠️ Skills & Technologies
@@ -43,8 +42,8 @@ I’m intrigued working with complex datasets and building models for efficient 
 ### 🔥 Open Source Contributions
 - - None right now
 
-### 🕒 Current Repo
-This repo contains codes and data used to build my portfolio website
+### 🕒 Current Repository
+- - This repo contains codes and data used to build my portfolio website
 
 
 
