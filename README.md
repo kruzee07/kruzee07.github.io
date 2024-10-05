@@ -40,7 +40,7 @@ I’m intrigued working with complex datasets and building models for efficient 
 
 
 ### 🔥 Open Source Contributions
-- - None right now
+- - No contributions for the moment
 
 ### 🕒 Current Repository
 - - This repo contains codes and data used to build my portfolio website
