@@ -38,15 +38,11 @@ I’m intrigued working with complex datasets and building models for efficient 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 
-
-### 🔥 Open Source Contributions
-- - No contributions for the moment
-
 ### 🕒 Current Repository
 - - This repo contains codes and data used to build my portfolio website
 
 ### Daily Update
-- - 14-10-24 11:41
+- - 15-10-24 08:58
 
 
 
