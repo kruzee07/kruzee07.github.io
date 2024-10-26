@@ -42,7 +42,7 @@ I’m intrigued working with complex datasets and building models for efficient 
 - - This repo contains codes and data used to build my portfolio website
 
 ### Daily Update
-- - 25-10-24 01:45
+- - 26-10-24 11:23
 
 
 
