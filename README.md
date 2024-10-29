@@ -10,8 +10,6 @@ I’m intrigued working with complex datasets and building models for efficient 
 😴 When I'm not coding, I'm eating or sleeping (P.S. If I'm asleep I most probably ate before).
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kruzee07&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kruzee07&theme=gruvbox)
 
 ### 📫 Social
