@@ -3933,6 +3933,7 @@ body.is-preload #sidebar nav ul li {
 
 /* Intro */
 
+
 #intro {
   position: relative;
   background-attachment: fixed;
@@ -3943,6 +3944,9 @@ body.is-preload #sidebar nav ul li {
   overflow: hidden;
   /* Ensures the overlay does not affect layout */
 }
+
+
+
 
 #intro::before {
   position: absolute;
