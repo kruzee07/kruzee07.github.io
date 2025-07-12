@@ -1,53 +1,16 @@
 %PDF-1.4
-%”ÙÃ·
-% PDFsharp Version 1.32.2608.0 (verbose mode)
-% Creation date: 2025-05-13 8:10:11 PM           
-% Creation time: 0.000 seconds                   
-% File size: 38753 bytes                         
-% Pages: 3                                       
-% Objects: 11                                    
-%--------------------------------------------------------------------------------------------------
-1 0 obj   % PdfSharp.Pdf.PdfDocumentInformation
+%‚„œ”
+4 0 obj
 <<
-  /CreationDate (D:20250513201011-04'00')
-  /Creator (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
-  /Producer (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Subtype /Type1
+/Type /Font
 >>
 endobj
-%--------------------------------------------------------------------------------------------------
-2 0 obj   % PdfSharp.Pdf.Advanced.PdfCatalog
+5 0 obj
 <<
-  /Pages 3 0 R
-  /Type /Catalog
->>
-endobj
-%--------------------------------------------------------------------------------------------------
-3 0 obj   % PdfSharp.Pdf.PdfPages
-<<
-  /Count 3
-  /Kids [7 0 R 9 0 R 11 0 R]
-  /Type /Pages
->>
-endobj
-%--------------------------------------------------------------------------------------------------
-4 0 obj   % PdfSharp.Pdf.PdfArray
-[
-  /PDF /Text /ImageB /ImageC /ImageI
-]
-endobj
-%--------------------------------------------------------------------------------------------------
-5 0 obj   % PdfSharp.Pdf.PdfDictionary
-<<
-  /BaseFont /Courier
-  /Encoding /WinAnsiEncoding
-  /Subtype /Type1
-  /Type /Font
->>
-endobj
-%--------------------------------------------------------------------------------------------------
-6 0 obj   % PdfSharp.Pdf.PdfDictionary
-<<
-  /Length 23190
+/Length 23190
 >>
 stream
 
@@ -93,7 +56,7 @@ BT /F3 9 Tf 0 0 0 rg 401.39 TL 529.488 623.808 Td (      ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 613.584 Td (           CANADA                                                   Issued On     :  ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 497.088 613.584 Td (2025) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 518.688 613.584 Td ( May ) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 545.688 613.584 Td (13) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 545.688 613.584 Td (20) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 556.488 613.584 Td ( ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 603.36 Td (                                         ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 593.136 Td (                                         ) Tj T* ET
@@ -355,37 +318,31 @@ q 36.0 36 540.0 720.0 re W n
 Q
 endstream
 endobj
-%--------------------------------------------------------------------------------------------------
-7 0 obj   % PdfSharp.Pdf.PdfPage
+3 0 obj
 <<
-  /Contents 6 0 R
-  /Group
-  <<
-    /CS /DeviceRGB
-    /I false
-    /K false
-    /S /Transparency
-  >>
-  /MediaBox [0 0 612 792]
-  /Parent 3 0 R
-  /Resources
-  <<
-    /Font
-    <<
-      /F3 5 0 R
-    >>
-    /ProcSet 4 0 R
-    /XObject
-    <<
-    >>
-  >>
-  /Type /Page
+/Type /Page
+/MediaBox [0 0 612 792]
+/Resources <<
+/Font <<
+/F3 4 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/XObject <<
+>>
+>>
+/Contents 5 0 R
+/Group <<
+/CS /DeviceRGB
+/I false
+/K false
+/S /Transparency
+>>
+/Parent 2 0 R
 >>
 endobj
-%--------------------------------------------------------------------------------------------------
-8 0 obj   % PdfSharp.Pdf.PdfDictionary
+7 0 obj
 <<
-  /Length 11736
+/Length 12868
 >>
 stream
 
@@ -438,7 +395,7 @@ BT /F3 9 Tf 0 0 0 rg 401.39 TL 529.488 554.256 Td (      ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 544.032 Td (           CANADA                                                   Issued On     :  ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 497.088 544.032 Td (2025) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 518.688 544.032 Td ( May ) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 545.688 544.032 Td (13) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 545.688 544.032 Td (20) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 556.488 544.032 Td ( ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 533.808 Td (                                         ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 523.584 Td (                                         ) Tj T* ET
@@ -528,109 +485,88 @@ BT /F3 9 Tf 0 0 0 rg 401.39 TL 459.216 339.552 Td (0.5) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 475.416 339.552 Td (   ) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 491.616 339.552 Td (83) Tj T* ET
 BT /F3 9 Tf 0 0 0 rg 401.39 TL 502.416 339.552 Td (   A-     ) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 329.328 Td (       ) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 319.104 Td (       ------------------------------------------------------------------------------------------) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 308.88 Td (               Current Academic Status : Good Standing                 ) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 298.656 Td (       ) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 288.432 Td (       ------------------------------------------------------------------------------------------) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 278.208 Td (                           ) Tj T* ET
-BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 267.984 Td (                                   *** End of UNOFFICIAL Record ***) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 329.328 Td (                           ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 319.104 Td (          PRESIDENT'S HONOUR ROLL) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 308.88 Td (       ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 298.656 Td (       ------------------------------------------------------------------------------------------) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 288.432 Td (               Current Academic Status : Good Standing                 ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 278.208 Td (                Degree Completed : Bachelor of Science \(Honours\)                           ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 267.984 Td (                          Majors : Computer Science                                        ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 257.76 Td (                          Minors : Economics                                               ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 247.536 Td (               Specialization in : Data Analytics                                          ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 237.312 Td (                            Date : May ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 248.616 237.312 Td (13) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 259.416 237.312 Td ( ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 264.816 237.312 Td (2025) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 286.416 237.312 Td (                                             ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 227.088 Td (       ------------------------------------------------------------------------------------------) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 216.864 Td (                           ) Tj T* ET
+BT /F3 9 Tf 0 0 0 rg 401.39 TL 38.016 206.64 Td (                                   *** End of UNOFFICIAL Record ***) Tj T* ET
 Q
 Q
 q 36.0 36 540.0 720.0 re W n
 Q
 endstream
 endobj
-%--------------------------------------------------------------------------------------------------
-9 0 obj   % PdfSharp.Pdf.PdfPage
+6 0 obj
 <<
-  /Contents 8 0 R
-  /Group
-  <<
-    /CS /DeviceRGB
-    /I false
-    /K false
-    /S /Transparency
-  >>
-  /MediaBox [0 0 612 792]
-  /Parent 3 0 R
-  /Resources
-  <<
-    /Font
-    <<
-      /F3 5 0 R
-    >>
-    /ProcSet 4 0 R
-    /XObject
-    <<
-    >>
-  >>
-  /Type /Page
+/Type /Page
+/MediaBox [0 0 612 792]
+/Resources <<
+/Font <<
+/F3 4 0 R
+>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/XObject <<
+>>
+>>
+/Contents 7 0 R
+/Group <<
+/CS /DeviceRGB
+/I false
+/K false
+/S /Transparency
+>>
+/Parent 2 0 R
 >>
 endobj
-%--------------------------------------------------------------------------------------------------
-10 0 obj   % PdfSharp.Pdf.PdfDictionary
+2 0 obj
 <<
-  /Length 107
->>
-stream
-
-q 36.0 36 540.0 720.0 re W n
-q 38.0 725.312 536.0 1468.688 re W n
-Q
-Q
-q 36.0 36 540.0 720.0 re W n
-Q
-endstream
-endobj
-%--------------------------------------------------------------------------------------------------
-11 0 obj   % PdfSharp.Pdf.PdfPage
-<<
-  /Contents 10 0 R
-  /Group
-  <<
-    /CS /DeviceRGB
-    /I false
-    /K false
-    /S /Transparency
-  >>
-  /MediaBox [0 0 612 792]
-  /Parent 3 0 R
-  /Resources
-  <<
-    /Font
-    <<
-    >>
-    /ProcSet 4 0 R
-    /XObject
-    <<
-    >>
-  >>
-  /Type /Page
+/Type /Pages
+/Kids [3 0 R 6 0 R]
+/Count 2
 >>
 endobj
-%--------------------------------------------------------------------------------------------------
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/Producer (iLovePDF)
+/ModDate (D:20250526181448Z)
+>>
+endobj
 xref
-0 12
-0000000000 65535 f 
-0000000411 00000 n 
-0000000725 00000 n 
-0000000915 00000 n 
-0000001117 00000 n 
-0000001299 00000 n 
-0000001533 00000 n 
-0000024909 00000 n 
-0000025323 00000 n 
-0000037245 00000 n 
-0000037659 00000 n 
-0000037951 00000 n 
+0 9
+0000000000 65535 f
+0000036837 00000 n
+0000036774 00000 n
+0000023353 00000 n
+0000000015 00000 n
+0000000110 00000 n
+0000036524 00000 n
+0000023603 00000 n
+0000036886 00000 n
 trailer
 <<
-  /ID [<D0CC6772656A9E45964C3581B4958EB9><D0CC6772656A9E45964C3581B4958EB9>]
-  /Info 1 0 R
-  /Root 2 0 R
-  /Size 12
+/Size 9
+/Root 1 0 R
+/Info 8 0 R
+/ID [<4A50EEAD448159428BC96E734096C462> <C5BFBC6D56875E552BBD2EA746652ABE>]
 >>
 startxref
-38351
+36957
 %%EOF
