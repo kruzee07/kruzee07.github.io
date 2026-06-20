@@ -170,7 +170,9 @@ h2.section-title {
     flex-direction: column;
     gap: .5rem;
     color: #333;
-    font-size: 13px
+    font-size: 13px;
+    object-fit: cover;
+    border-radius: 4px;
 }
 
 .about-photo i {
